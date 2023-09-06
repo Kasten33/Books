@@ -56,13 +56,13 @@ nav li{
     margin-top: 258.5px;
     text-align: center;
     }
-    body .music{
+    .music body{
       background-color: black;
       background-image: url(Images/Rach.jpg);
       margin: auto;
       padding: 0px;
     }
-    article{ 
+    .music article { 
       background-color: black;
       width: 80%;
       margin-left: auto;
