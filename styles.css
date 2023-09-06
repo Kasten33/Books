@@ -1,4 +1,4 @@
-nav li{
+nav li {
   background-color: black;
   color: White;
   display: inline-block;
@@ -6,63 +6,62 @@ nav li{
   padding-right: 160px;
   padding-top: 20px;
   width: 50%;
-}header {
+}
+header {
   background-color: rgb(46, 41, 41);
   padding: 1px;
   padding-top: 1px;
   text-align: center;
-  }
+}
 nav ul {
   white-space: nowrap;
   max-width: 488px;
   margin: 0 auto;
-  }
+}
 body {
   background-color: black;
-  }
+}
 nav {
   position: sticky;
   background-color: black;
   top: 0px;
-  }
+}
 p {
   color: white;
-  }
+}
 .text {
   text-align: center;
-  }
-.book img {
+}
+.book {
   display: block;
   margin-left: auto;
   margin-right: auto;
   height: 200px;
   width: 400px;
-  }
-form input{
+}
+form input {
   margin-left: auto;
   margin-right: auto;
   padding: 10px 20px;
-      
-  }
-section.join{
-  
+}
+section.join {
   text-align: center;
   padding: 60px 20px;
-  }
-footer{
+}
+footer {
   background: black;
   color: white;
   padding: 10px;
   margin-top: 258.5px;
   text-align: center;
-  }
-.music body{
+}
+.music {
   background-color: black;
   background-image: url(Images/Rach.jpg);
   margin: auto;
   padding: 0px;
-  }
-.music article { 
+}
+.music2 {
   background-color: black;
   width: 80%;
   margin-left: auto;
@@ -71,10 +70,36 @@ footer{
   padding-right: 20px;
   padding-bottom: 20px;
   max-width: 1400px;
-  }
-h2{
+}
+h2 {
   color: white;
   background-color: black;
   text-align: center;
   margin-top: 0px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.welcome {
+  text-align: center;
+  font-size: 20px;
+  color: red;
+}
+.to {
+  text-align: center;
+  font-size: 20px;
+  color: rgb(255, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.club {
+  background-color: rgb(46, 41, 41);
+  color: black;
+  margin: px;
+}
+.banner {
+  position: absolute;
+  left: 46.5%;
+  top: 155px;
 }
